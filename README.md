@@ -1,20 +1,29 @@
-<h1 align="center">Hi 👋, I'm Sad Md. Tafhim</h1>
-<h3 align="center">A Passionate Frontend Developer from Bangladesh</h3>
+# Hi 👋, I'm Sad Md. Tafhim
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sadtafhim&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+### A Passionate Frontend Developer from Bangladesh
+
+---
+
+## 👨‍💻 About Me
+
+Hi there! I'm **Sad Md. Tafhim**, a passionate **Frontend Developer** who loves building clean, responsive, and user‑friendly web interfaces. I'm deeply enthusiastic about modern web technologies, design systems, and creating smooth user experiences.
+
+I enjoy **sharing what I learn**, building cool projects, and exploring new tools to level up my development workflow. Outside of coding, I enjoy reading articles, discovering new tech content, and contributing to the dev community.
+
+If you're curious about what I do or want to connect, feel free to follow me or reach out!
 
 ---
 
 # ⚙️ Tech Stack
 
 ## 🚀 Core Technologies
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=tailwind,react,js,nodejs,express,mongodb" height="60" />
 </div>
 
 ## 🛠 Tools, Libraries & Frameworks
+
 <p align="left">
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" />
@@ -37,6 +46,7 @@
 ---
 
 # 🧠 Exploring & Learning
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=storybook,graphql,go,rust,nestjs,py,aws" height="60" />
 </div>
@@ -44,14 +54,13 @@
 ---
 
 # 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sadtafhim&show_icons=true&layout=compact" height="160" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sadtafhim&show_icons=true" height="160" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadtafhim" height="160" />
 </p>
@@ -59,6 +68,7 @@
 ---
 
 # 🏆 Trophy Showcase
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sadtafhim&theme=dracula&margin-w=8&margin-h=8" />
 </p>
@@ -66,6 +76,7 @@
 ---
 
 # 🎮 Fun Activity Graph
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
@@ -73,7 +84,9 @@
 </picture>
 
 ---
+
 ## 🔗 Connect with Me
+
 <p align="left">
   <a href="https://linkedin.com/in/sad-md-tafhim-97a717161" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
@@ -85,5 +98,3 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
   </a>
 </p>
-
----
