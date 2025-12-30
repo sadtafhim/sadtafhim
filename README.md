@@ -14,8 +14,7 @@ If you're curious about what I do or want to connect, feel free to follow me or 
 
 ---
 
-## 🔥 **Current Activities**
-- 🚧 Currently building a **Habit Tracker Web App**  
+## 🔥 **Current Activities** 
 - 🌱 Exploring **Next.js** & **Advanced React Patterns**  
 - 🎨 Learning UI/UX improvements for better frontend design  
 - ⚡ Working on API-driven full-stack MERN projects  
